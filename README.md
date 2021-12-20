@@ -1,3 +1,6 @@
+I would have liked to do more styling in this project but I had some trouble getting sass to work the way i wanted it to in react.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
